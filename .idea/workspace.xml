@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ed27bcf-c3c8-4e92-866c-7ac2a7db2150" name="Default Changelist" comment="" />
+    <list default="true" id="1ed27bcf-c3c8-4e92-866c-7ac2a7db2150" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\IDEAPROJECT\HelloWorld\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1iwN2QH8Ie4wPYbwOQ2pT1y1tth" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,14 +77,30 @@
       <option name="presentableId" value="Default" />
       <updated>1602814487196</updated>
       <workItem from="1602814491726" duration="875000" />
-      <workItem from="1602819132823" duration="2529000" />
+      <workItem from="1602819132823" duration="2771000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1602827320475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602827320475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1602827318734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602827318734" />
     <state x="385" y="82" key="FileChooserDialogImpl" timestamp="1602827154157">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
